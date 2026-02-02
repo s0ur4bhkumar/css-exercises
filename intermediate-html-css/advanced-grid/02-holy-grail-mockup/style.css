@@ -114,7 +114,7 @@ body {
 .menu > ul,
 .nav > ul {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4,w 1fr);
 }
 
 .nav {
